@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <sys/stat.h>
 
-#define CAPTURE_CMD                "imagesnap"
+#define CAPTURE_CMD                "/usr/local/bin/imagesnap"
 #define RESAMPLE_CMD               "sips --resampleWidth 800"
 #define CAPTURE_NUMBER_FILE        "/usr/local/bin/snapperd.last"
 

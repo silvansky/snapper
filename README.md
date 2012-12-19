@@ -12,4 +12,4 @@ To disable daemon:
 
 snapperd uses [imagesnap](http://iharder.sourceforge.net/current/macosx/imagesnap/) to capture images from camera, it should be in your PATH.
 
-Resulting images are placed in /usr/local/snapper/snap_*.png.
+After registering, snapperd will capture an image from your camera every five minutes. Resulting images are placed in `/usr/local/snapper/snap_*.png`.

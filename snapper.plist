@@ -13,6 +13,6 @@
     <key>StartInterval</key>
     <integer>300</integer>
     <key>StandardErrorPath</key>
-    <string>/dev/null</string>
+    <string>/usr/local/snapper/err</string>
 </dict>
 </plist>
